@@ -25,7 +25,7 @@ or
 ### How to Install
 
 1. Download and install [EasySIMBL](https://github.com/norio-nomura/EasySIMBL/#how-to-install) (recommended) or [SIMBL](http://www.culater.net/software/SIMBL/SIMBL.php)
-2. Download PreciseTwitter here: [PreciseTwitter-1.0.zip](https://github.com/inket/PreciseTwitter/releases/download/v1.0/PreciseTwitter-1.0.zip)
+2. Download PreciseTwitter here: [PreciseTwitter-1.0.zip](https://github.com/inket/PreciseTwitter/releases/download/v1.0/PreciseTwitter-v1.0.zip)
 3. Install cosyTabs:
 	- **EasySIMBL**: Open EasySIMBL and drag & drop *PreciseTwitter.bundle* into the list.
 	- **SIMBL**: Copy *PreciseTwitter.bundle* to `/Library/Application Support/SIMBL/Plugins/`.
